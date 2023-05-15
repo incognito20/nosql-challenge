@@ -8,7 +8,7 @@ The NoSQL Challenge is a full NoSQL and data analysis project using data about r
 
 NoSQL_setup_starter_.ipynb = The code required to complete Part 1 as described below.
 
-part_2_mars_weather.ipynb = The code required to complete Part 2 as described below.
+NoSQL_analysis_starter.ipynb = The code required to complete Parts 2 and 3 as described below.
 
 establishments.json = The json list of information that was imported to create the datbase.
 
